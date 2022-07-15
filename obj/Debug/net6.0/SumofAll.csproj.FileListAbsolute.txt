@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\bin\Debug\net6.0\SumofAll.exe
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\bin\Debug\net6.0\SumofAll.deps.json
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\bin\Debug\net6.0\SumofAll.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\bin\Debug\net6.0\SumofAll.dll
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\bin\Debug\net6.0\SumofAll.pdb
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.dll
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\refint\SumofAll.dll
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.pdb
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\SumofAll.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\SumofAll\SumofAll\obj\Debug\net6.0\ref\SumofAll.dll
